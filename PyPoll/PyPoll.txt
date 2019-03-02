@@ -7,4 +7,5 @@ Candidate  Percent of Votes  Number of Votes
   Correy              20.0           704200
       Li              14.0           492940
 O'Tooley               3.0           105630
+-------------------------------------------
 Winner:  Khan
